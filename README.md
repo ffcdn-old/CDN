@@ -1,4 +1,4 @@
-# EN
+# EN-US
 This is an archive that was created as a backup and was never even intended for this purpose.
 
 This archive was last saved on December 23, 2021, so it can be applied to LLQPlayer-Pro 1.0 project.
